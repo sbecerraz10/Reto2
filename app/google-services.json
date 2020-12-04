@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "224561815226",
+    "firebase_url": "https://reto2-b5050.firebaseio.com",
+    "project_id": "reto2-b5050",
+    "storage_bucket": "reto2-b5050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224561815226:android:59e35dafff40899dcfac83",
+        "android_client_info": {
+          "package_name": "com.example.reto2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224561815226-bsp0rh4mm9d7qqpltm7h1lhc4963d62g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ9b4jq3k5xAowgsqIG9P1HqPl0Jwt5h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224561815226-bsp0rh4mm9d7qqpltm7h1lhc4963d62g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
