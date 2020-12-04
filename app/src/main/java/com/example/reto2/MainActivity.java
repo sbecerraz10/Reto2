@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
 
             CollectionReference usersReference = database.collection("users");
-            Query query = usersReference.whereEqualTo("username", username);
+            Query query = usersReference.whereEqualTo("name", username);
             query.get().addOnCompleteListener(
                     task -> {
                         User user = new User(UUID.randomUUID().toString(), username);
